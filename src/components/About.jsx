@@ -20,7 +20,7 @@ const styles = {
     margin: 10,
     justifyContent: "center",
     alignItems: "center",
-    display: "flex",
+    // display: "flex",
   },
 };
 
@@ -73,7 +73,10 @@ function About(props) {
                         <i className="xi-maker"></i>
                         <p>
                           <strong>ADRESS</strong>
-                          <em>인천광역시 남동구</em>
+                          <em>
+                            인천광역시 <br />
+                            남동구
+                          </em>
                         </p>
                       </li>
                       <li>

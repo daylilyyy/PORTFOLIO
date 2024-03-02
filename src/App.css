@@ -137,9 +137,12 @@ section.timeline-card-content div.card-description > p {
   .navbar__link:hover::after {
     width: 0;
   }
-  /* about 페이지 수정 */
+}
+@media (max-width: 480px) {
   .section-content-container {
-    /* display: none; */
+    img {
+      width: 80vw;
+    }
   }
 }
 
@@ -161,7 +164,6 @@ section.timeline-card-content div.card-description > p {
     li {
       display: flex;
       justify-content: center;
-      /* align-items: center; */
       width: 33.33333%;
       height: 85px;
       margin-bottom: 20px;
@@ -180,6 +182,53 @@ section.timeline-card-content div.card-description > p {
         }
         em {
           font-size: 15px;
+        }
+      }
+    }
+  }
+  @media screen and (max-width: 768px) {
+    ul {
+      li {
+        width: 50%;
+        margin-bottom: 15px;
+        height: 60px;
+        i {
+          font-size: 32px;
+          width: 90px;
+        }
+        p {
+          line-height: 1;
+          width: calc(100% - 90px);
+          strong {
+            font-size: 16px;
+          }
+          em {
+            font-size: 12px;
+          }
+        }
+      }
+    }
+  }
+  @media screen and (max-width: 480px) {
+    ul {
+      li {
+        width: 50%;
+        height: 12.5vw;
+        margin-bottom: 3.125vw;
+        i {
+          font-size: 6.6667vw;
+          width: 18.75vw;
+        }
+        p {
+          line-height: 1;
+          width: calc(100% - 18.75vw);
+          strong {
+            font-size: 3.3333vw;
+            margin-bottom: 1.0417vw;
+          }
+          em {
+            font-size: 2.5vw;
+          }
         }
       }
     }
