@@ -19,7 +19,7 @@
     {
       "image": "images/projects/ewhamain.png",
       "title": "Ewha Project",
-      "bodyText": "- 팀 프로젝트\n - HTML, Vanilla JS를 이용한 이화여대 마크업 홈페이지\n - 기존 사이트에 창작페이지 추가",
+      "bodyText": "- 팀 프로젝트\n - HTML, Vanilla JS를 이용한 이화여대 마크업 홈페이지\n - 새로운 컨텐츠들을 추가해 재구성 ",
       "links": [
         {
           "text": "GitHub",
@@ -68,6 +68,22 @@
       "image": "images/projects/megamain.png",
       "title": "Megabox Project",
       "bodyText": "- 토이 프로젝트 \n - 메가박스 홈페이지를 참고하여 창작한 영화정보 안내사이트",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/daylilyyy/mega-project"
+        },
+        {
+          "text": "Live",
+          "href": "https://daylily-megabox.netlify.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "image": "images/projects/electricmain.png",
+      "title": "electric Project",
+      "bodyText": "- 토이 프로젝트 \n - React와 Styled-components를 사용하여 기존 탐라는 전기차(https://www.tamraev.com/) 페이지를 재구성한 웹사이트",
       "links": [
         {
           "text": "GitHub",
