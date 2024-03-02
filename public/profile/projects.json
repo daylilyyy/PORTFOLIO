@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/valorantmain.png",
+      "title": "Valorant Project",
+      "bodyText": "- 파이널 팀 프로젝트 \n -  인기 온라인 게임인 '발로란트'의 기존 메인 홈페이지를 바탕으로 React와 상태 관리를 위한 Redux를 연습하기 위한 새로운 홈페이지를 제작\n",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/ezen-iron-bro/Final_project"
+        },
+        {
+          "text": "Live",
+          "href": "https://ironbro-valorant.netlify.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "image": "images/projects/ewhamain.png",
+      "title": "Ewha Project",
+      "bodyText": "- 팀 프로젝트\n - HTML, Vanilla JS를 이용한 이화여대 마크업 홈페이지\n - 기존 사이트에 창작페이지 추가",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/daylilyyy/Ewha-main.git"
+        },
+        {
+          "text": "Live",
+          "href": "https://daylily-ewha.netlify.app/"
+        }
+      ],
+      "tags": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+      "image": "images/projects/ewhamobile.png",
+      "title": "Ewha Project (Mobile ver.)",
+      "bodyText": "- 팀 프로젝트\n - 기존에 제작했던 이화여대 홈페이지를 반응형 웹으로 변경",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/daylilyyy/Ewha-mobile"
+        },
+        {
+          "text": "Live",
+          "href": "https://daylily-ewha-mobile.netlify.app/"
+        }
+      ],
+      "tags": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+      "image": "images/projects/olympiamain.png",
+      "title": "Olympia Project",
+      "bodyText": "- 토이 프로젝트 \n - 해외 유명 보디빌더의 프로필을 보기쉽게 안내하기 위한 창작 홈페이지",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/daylilyyy/olympia-project"
+        },
+        {
+          "text": "Live",
+          "href": "https://daylily-olympia.netlify.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "HTML", "CSS", "Tailwind"]
+    },
+    {
+      "image": "images/projects/megamain.png",
+      "title": "Megabox Project",
+      "bodyText": "- 토이 프로젝트 \n - 메가박스 홈페이지를 참고하여 창작한 영화정보 안내사이트",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/daylilyyy/mega-project"
+        },
+        {
+          "text": "Live",
+          "href": "https://daylily-megabox.netlify.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "HTML", "CSS"]
+    }
+  ]
+}

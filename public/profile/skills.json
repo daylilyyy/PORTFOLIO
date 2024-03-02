@@ -1,0 +1,84 @@
+{
+  "intro": "새로운 것을 경험하고 배우는 것을 좋아합니다.",
+  "skills": [
+    {
+      "title": "Frontend",
+      "items": [
+        {
+          "icon": "images/skills/html5-color.svg",
+          "title": "HTML5"
+        },
+        {
+          "icon": "images/skills/css3-color.svg",
+          "title": "CSS3"
+        },
+        {
+          "icon": "images/skills/javascript-color.svg",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/sass-color.svg",
+          "title": "Sass"
+        },
+        {
+          "icon": "images/skills/styledcomponents-color.svg",
+          "title": "Styled-components"
+        },
+        {
+          "icon": "images/skills/react-color.svg",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/redux-color.svg",
+          "title": "Redux"
+        },
+        {
+          "icon": "images/skills/axios-color.svg",
+          "title": "Axios"
+        },
+        {
+          "icon": "images/skills/tailwind-color.svg",
+          "title": "Tailwindcss"
+        }
+      ]
+    },
+    {
+      "title": "Version Control",
+      "items": [
+        {
+          "icon": "images/skills/git-color.svg",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/github-color.svg",
+          "title": "GitHub"
+        },
+        {
+          "icon": "images/skills/sourcetree.svg",
+          "title": "Sourcetree"
+        }
+      ]
+    },
+    {
+      "title": "Communication",
+      "items": [
+        {
+          "icon": "images/skills/figma-color.svg",
+          "title": "Figma"
+        },
+        {
+          "icon": "images/skills/discord-color.svg",
+          "title": "Discord"
+        },
+        {
+          "icon": "images/skills/notion.svg",
+          "title": "Notion"
+        },
+        {
+          "icon": "images/skills/slack-color.svg",
+          "title": "Slack"
+        }
+      ]
+    }
+  ]
+}
