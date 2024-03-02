@@ -143,6 +143,9 @@ section.timeline-card-content div.card-description > p {
     img {
       width: 80vw;
     }
+    .card-img-top {
+      width: 100vw;
+    }
   }
 }
 
