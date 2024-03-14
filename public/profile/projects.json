@@ -79,22 +79,6 @@
         }
       ],
       "tags": ["React", "JavaScript", "HTML", "CSS"]
-    },
-    {
-      "image": "images/projects/electricmain.png",
-      "title": "electric Project",
-      "bodyText": "- 토이 프로젝트 \n - React와 Styled-components를 사용하여 기존 탐라는 전기차(https://www.tamraev.com/) 페이지를 재구성한 웹사이트",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/daylilyyy/electric-project"
-        },
-        {
-          "text": "Live",
-          "href": "https://daylily-electric.netlify.app/"
-        }
-      ],
-      "tags": ["React", "JavaScript", "HTML", "CSS"]
     }
   ]
 }
