@@ -49,6 +49,22 @@
       "tags": ["JavaScript", "HTML", "CSS"]
     },
     {
+      "image": "images/projects/weathermain.png",
+      "title": "WeatherBABA Project",
+      "bodyText": "- 토이 프로젝트 \n - TypeScript,Zustand,API를 활용한 전세계 날씨정보 안내사이트",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/daylilyyy/weatherbaba"
+        },
+        {
+          "text": "Live",
+          "href": "https://daylily-weatherbaba.netlify.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "HTML", "TailwindCss", "Zustand"]
+    },
+    {
       "image": "images/projects/olympiamain.png",
       "title": "Olympia Project",
       "bodyText": "- 토이 프로젝트 \n - 해외 유명 보디빌더의 프로필을 보기쉽게 안내하기 위한 창작 홈페이지",
